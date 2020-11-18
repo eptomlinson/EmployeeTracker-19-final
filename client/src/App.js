@@ -1,23 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import MrKrabsCard from "./components/MrKrabsCard";
+import PatrickStarCard from "./components/PatrickStarCard";
+import SpongebobCard from "./components/SpongeBobCard"
+import SquidwardCard from "./components/SquidwardCard";
+// import friends from "./friends.json";
+import Home from "./pages/home"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Home></Home>
+      {/* <SpongebobCard info= {friends[0]}></SpongebobCard> 
+      <MrKrabsCard info= {friends[1]}></MrKrabsCard>
+      <SquidwardCard info= {friends[2]}></SquidwardCard>
+      <PatrickStarCard info= {friends[3]}></PatrickStarCard> */}
     </div>
   );
 }

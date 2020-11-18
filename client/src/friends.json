@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image":
+      "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea",
+    "phone": "Seashell",
+    "email": "jellyfishing4life@hotmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image":
+      "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor",
+    "phone":"(715) 820-3420",
+    "email":"MoMoneyNoProblems@yahoo.com"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image":
+      "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "phone": "(807) 451-7623",
+    "email": "Clarinet_Concerto_Am_K622@netscape.net"
+  },
+  {
+    "id": 4,
+    "name": "Patrick Star",
+    "image": "https://cdn3.whatculture.com/images/2018/11/f8068760c9c10bfd-600x338.jpg",
+    "occupation": "No, this is Patrick",
+    "location": "Under a Rock",
+    "phone": "(555) 555-1234",
+    "email": "uhhhhhhhhhhhhhhhhhhhhhhhhhh@aol.com"
+  },
+  {
+    "id": 5,
+    "name": "Dirty Dan",
+    "image": "https://i2.sndcdn.com/avatars-xofCyJxoqOu6GBdt-QDpWHA-t500x500.jpg",
+    "occupation": "Tough Guy",
+    "location": "Sandy's Dreams",
+    "phone": "(877) Kars-4-Kids",
+    "email": "im_dirty_dan@sandysdreams.us"
+  }
+]
