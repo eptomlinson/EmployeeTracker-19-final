@@ -6,14 +6,14 @@ const routes = require('./routes');
 const app = express();
 
 // Variable Port
-const PORT = process.env.PORT || 9001;
+const PORT = process.env.PORT || 4321;
 
 // Middleware
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 // If our node environment is production we will serve up our static assets from the build folder
-if (process.env.NODE_ENV === 'production') {
+if (process.env.NODE_ENV === 4321) {
     // The react app is called 'client' and we are accessing the build folder that is initialized in the postbuild scripts.
     app.use(express.static('client/build'))
 };
@@ -23,7 +23,7 @@ app.use(routes);
 
 // Start the server
 app.listen(PORT, () => {
-    if (process.env.NODE_ENV !== 'production') {
+    if (process.env.NODE_ENV !== 4321) {
         console.log(`Server listening at http://localhost:${PORT}`)
     };
 });
