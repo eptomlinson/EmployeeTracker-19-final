@@ -13,7 +13,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 // If our node environment is production we will serve up our static assets from the build folder
-if (process.env.NODE_ENV === 4321) {
+if (process.env.NODE_ENV === 'production') {
     // The react app is called 'client' and we are accessing the build folder that is initialized in the postbuild scripts.
     app.use(express.static('client/build'))
 };
