@@ -46,5 +46,32 @@
     "location": "Sandy's Dreams",
     "phone": "(877) Kars-4-Kids",
     "email": "im_dirty_dan@sandysdreams.us"
+  },
+  {
+    "id": 6,
+    "name": "Plankton",
+    "image": "https://biol326.files.wordpress.com/2020/03/99-994125_sheldon-j-plankton-voice-plankton-spongebob.png?w=224",
+    "occupation": "Morale Officer",
+    "location": "Closer... Closer... Not that close!",
+    "phone": "(800) EAT-CHUM",
+    "email": "chum@bucket.com"
+  },
+  {
+    "id": 7,
+    "name": "King Neptune",
+    "image": "https://i.pinimg.com/564x/50/bd/c2/50bdc2aea1a1d4e40602950d3deee9e6.jpg",
+    "occupation": "Trainee",
+    "location": "The Ocean",
+    "phone": "(800) 278-9295",
+    "email": "neptunekingoftheocean@outlook.com"
+  },
+  {
+    "id": 8,
+    "name": "Sandy Cheeks",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/405610ed-0ed8-404b-b733-b0bc5ad9d340/ddwpu1v-34c203bf-da06-4aff-bc99-ea82f51cb2ee.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNDA1NjEwZWQtMGVkOC00MDRiLWI3MzMtYjBiYzVhZDlkMzQwXC9kZHdwdTF2LTM0YzIwM2JmLWRhMDYtNGFmZi1iYzk5LWVhODJmNTFjYjJlZS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.2zfXqXFRYov_OG3xmPd5w0tKw8jtfaZeIH_81mfipkU",
+    "occupation": "Burger Developer",
+    "location": "Underwater Tree House",
+    "phone": "(123) 456-7890",
+    "email": "dontmesswithTEXAS@tamu.edu"
   }
 ]
