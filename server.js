@@ -23,7 +23,7 @@ app.use(routes);
 
 // Start the server
 app.listen(PORT, () => {
-    if (process.env.NODE_ENV !== 4321) {
+    if (process.env.NODE_ENV !== 'production') {
         console.log(`Server listening at http://localhost:${PORT}`)
     };
 });
