@@ -42,6 +42,7 @@ class Home extends React.Component {
                                 <img
                                     alt={element.name}
                                     src={element.image}
+                                    className="pics"
                                 />
                             </div>
                             <div className="content">
