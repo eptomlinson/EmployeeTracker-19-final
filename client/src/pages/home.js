@@ -17,11 +17,8 @@ class Home extends React.Component {
     handleInputChange = event => {
         const value = event.target.value;
         this.setState({ search: value })
-        // console.log(this.state.search)
-        // console.log(friends)
         const filtered = friends.filter(query => query.name.includes(value))
         this.setState({ filter: filtered })
-        // console.log(this.state.filter)
     }
     render() {
         return (
@@ -30,10 +27,10 @@ class Home extends React.Component {
                     <h3 id= "Krusty Krab Logo">Krusty Krab Employee Database</h3>
                     <form className="form-inline">
                         <input
-                            className="form-control mr-md-8"
+                            className="form-control mr-md-16"
                             onChange={this.handleInputChange}
                             type="search"
-                            placeholder="Who lives in a pineapple under the sea?"
+                            placeholder="<Name, Case Sensitive"
                         />
                     </form>
                 </nav>
