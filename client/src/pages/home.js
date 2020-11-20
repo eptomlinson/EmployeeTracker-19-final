@@ -30,7 +30,7 @@ class Home extends React.Component {
                             className="form-control mr-md-16"
                             onChange={this.handleInputChange}
                             type="search"
-                            placeholder="<Name, Case Sensitive"
+                            placeholder="Name, Case Sensitive"
                         />
                     </form>
                 </nav>
