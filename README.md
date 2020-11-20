@@ -6,7 +6,7 @@ Mr. Krabs' dev budget is dirt cheap, so he's turned to a member of the Northwest
 
 The website is deployed at this URL: https://tranquil-gorge-52847.herokuapp.com/
 
-The GitHub repo is located here: 
+The GitHub repo is located here: https://github.com/eptomlinson/EmployeeTracker-19-final
 
 Once you arrive at the site, you may use the search bar to search by employee name. Here is the complete duty roster: SpongeBob Squarepants, Mr. Krabs, Squidward Tentacles, Patrick Star, Dirty Dan, Plankton, King Neptune, & Sandy Cheeks.
 
