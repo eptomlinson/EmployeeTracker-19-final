@@ -24,7 +24,7 @@ class Home extends React.Component {
         return (
             <>
                 <nav className="navbar navbar-dark bg-dark justify-content-center">
-                    <h3 id= "krustyKrabLogo">Krusty Krab Employee Database</h3>
+                    <h3 id= "krustyKrabLogo">Krusty Krab Employee Directory</h3>
                     <form className="form-inline">
                         <input
                             className="form-control mr-md-16"
